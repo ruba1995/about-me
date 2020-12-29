@@ -1,4 +1,5 @@
 'use strict' ;
+console.log("hello");
 var user_name = prompt ("what is your name ?");
 //console.log(user_name);
 alert ("hello " + user_name ) ;
